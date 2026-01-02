@@ -196,7 +196,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\Logan\Documents\Projects\gaintest\build\ALL_BUILD.vcxproj">
+    <ProjectReference Include="C:\Users\Logan\Documents\Projects\gaintest\build\_deps\juce-build\ALL_BUILD.vcxproj">
       <Project>{578C22E5-E9D1-3641-8709-7778B42BCD01}</Project>
       <Name>ALL_BUILD</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>

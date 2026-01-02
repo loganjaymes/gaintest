@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Logan\Documents\Projects\gaintest\build\CMakeFiles\8b59104973012d9d79ce221b1b48c63b\SimpleJucePluginTemplate_resources.rc.rule">
+    <CustomBuild Include="C:\Users\Logan\Documents\Projects\gaintest\build\CMakeFiles\79d5436945a70e16fc6d34aaeae9b429\GainTest_resources.rc.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
     <CustomBuild Include="C:\Users\Logan\Documents\Projects\gaintest\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="C:\Users\Logan\Documents\Projects\gaintest\build\SimpleJucePluginTemplate_artefacts\JuceLibraryCode\SimpleJucePluginTemplate_resources.rc">
+    <ResourceCompile Include="C:\Users\Logan\Documents\Projects\gaintest\build\GainTest_artefacts\JuceLibraryCode\GainTest_resources.rc">
       <Filter>Source Files</Filter>
     </ResourceCompile>
   </ItemGroup>

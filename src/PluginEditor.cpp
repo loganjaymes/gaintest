@@ -8,7 +8,14 @@ AudioPluginAudioProcessorEditor::AudioPluginAudioProcessorEditor (AudioPluginAud
     juce::ignoreUnused (processorRef);
     // Make sure that before the constructor has finished, you've set the
     // editor's size to whatever you need it to be.
-    setSize (400, 300);
+    setSize (200, 400);
+
+	gainSlider.setSliderStyle(juce::Slider::SliderStyle::LinearVertical);
+	gainSlider.setTextBoxStyle(juce::Slider::TextBoxBelow, true, 100, 25);
+	gainSlider.setRange(-48.0, 0.0);
+	gainSlider.setValue(-1.0);
+	gainSlider.addListener(this); // LISTENER: Actually makes it work!
+	addAndMakeVisible(gainSlider);
 }
 
 AudioPluginAudioProcessorEditor::~AudioPluginAudioProcessorEditor()
@@ -18,13 +25,15 @@ AudioPluginAudioProcessorEditor::~AudioPluginAudioProcessorEditor()
 //==============================================================================
 void AudioPluginAudioProcessorEditor::paint (juce::Graphics& g)
 {
-    // (Our component is opaque, so we must completely fill the background with a solid colour)
-    g.fillAll (getLookAndFeel().findColour (juce::ResizableWindow::backgroundColourId));
-
-    g.setColour (juce::Colours::white);
-    g.setFont (15.0f);
-    g.drawFittedText ("Hello World!", getLocalBounds(), juce::Justification::centred, 1);
-}
+    g.fillAll (juce::Colour(26, 26, 30));
+	
+	// draw slider
+	gainSlider.setBounds(getLocalBounds());
+	
+    // g.setColour (juce::Colour(214, 222, 223));
+    // g.setFont (15.0f);
+    // g.drawFittedText ("Hello!", getLocalBounds(), juce::Justification::centred, 1);
+}	
 
 void AudioPluginAudioProcessorEditor::resized()
 {

@@ -1,9 +1,9 @@
-C:/Users/Logan/Documents/Projects/gaintest/build/CMakeFiles/SimpleJucePluginTemplate.dir
-C:/Users/Logan/Documents/Projects/gaintest/build/CMakeFiles/SimpleJucePluginTemplate_All.dir
-C:/Users/Logan/Documents/Projects/gaintest/build/CMakeFiles/SimpleJucePluginTemplate_Standalone.dir
-C:/Users/Logan/Documents/Projects/gaintest/build/CMakeFiles/SimpleJucePluginTemplate_rc_lib.dir
-C:/Users/Logan/Documents/Projects/gaintest/build/CMakeFiles/SimpleJucePluginTemplate_VST3.dir
-C:/Users/Logan/Documents/Projects/gaintest/build/CMakeFiles/SimpleJucePluginTemplate_vst3_helper.dir
+C:/Users/Logan/Documents/Projects/gaintest/build/CMakeFiles/GainTest.dir
+C:/Users/Logan/Documents/Projects/gaintest/build/CMakeFiles/GainTest_All.dir
+C:/Users/Logan/Documents/Projects/gaintest/build/CMakeFiles/GainTest_Standalone.dir
+C:/Users/Logan/Documents/Projects/gaintest/build/CMakeFiles/GainTest_rc_lib.dir
+C:/Users/Logan/Documents/Projects/gaintest/build/CMakeFiles/GainTest_VST3.dir
+C:/Users/Logan/Documents/Projects/gaintest/build/CMakeFiles/GainTest_vst3_helper.dir
 C:/Users/Logan/Documents/Projects/gaintest/build/CMakeFiles/INSTALL.dir
 C:/Users/Logan/Documents/Projects/gaintest/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/Logan/Documents/Projects/gaintest/build/CMakeFiles/ZERO_CHECK.dir

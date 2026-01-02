@@ -87,7 +87,7 @@
     <CustomBuild Include="C:\Users\Logan\Documents\Projects\gaintest\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Object Include="C:\Users\Logan\Documents\Projects\gaintest\build\SimpleJucePluginTemplate_rc_lib.dir\$(Configuration)\SimpleJucePluginTemplate_resources.res">
+    <Object Include="C:\Users\Logan\Documents\Projects\gaintest\build\GainTest_rc_lib.dir\$(Configuration)\GainTest_resources.res">
       <Filter>Object Libraries</Filter>
     </Object>
   </ItemGroup>

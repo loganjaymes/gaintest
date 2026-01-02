@@ -53,7 +53,7 @@ events:
         - "C:\\Users\\Logan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\Logan\\AppData\\Roaming\\npm"
         - "C:\\Users\\Logan\\Documents\\mingw64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/SimpleJucePluginTemplate"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/GainTest"
   -
     kind: "message-v1"
     backtrace:
@@ -70,7 +70,7 @@ events:
       The output was:
       0
       MSBuild version 17.14.23+b0019275e for .NET Framework
-      Build started 1/1/2026 10:42:09 PM.
+      Build started 1/1/2026 10:55:37 PM.
       
       Project "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\4.2.1\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -99,7 +99,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:00.59
+      Time Elapsed 00:00:00.58
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -172,7 +172,7 @@ events:
         - "C:\\Users\\Logan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\Logan\\AppData\\Roaming\\npm"
         - "C:\\Users\\Logan\\Documents\\mingw64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/SimpleJucePluginTemplate"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/GainTest"
   -
     kind: "find-v1"
     backtrace:
@@ -289,7 +289,7 @@ events:
         - "C:\\Users\\Logan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\Logan\\AppData\\Roaming\\npm"
         - "C:\\Users\\Logan\\Documents\\mingw64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/SimpleJucePluginTemplate"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/GainTest"
   -
     kind: "find-v1"
     backtrace:
@@ -351,7 +351,7 @@ events:
         - "C:\\Users\\Logan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\Logan\\AppData\\Roaming\\npm"
         - "C:\\Users\\Logan\\Documents\\mingw64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/SimpleJucePluginTemplate"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/GainTest"
   -
     kind: "find-v1"
     backtrace:
@@ -466,7 +466,7 @@ events:
         - "C:\\Users\\Logan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\Logan\\AppData\\Roaming\\npm"
         - "C:\\Users\\Logan\\Documents\\mingw64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/SimpleJucePluginTemplate"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/GainTest"
   -
     kind: "find-v1"
     backtrace:
@@ -528,7 +528,7 @@ events:
         - "C:\\Users\\Logan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\Logan\\AppData\\Roaming\\npm"
         - "C:\\Users\\Logan\\Documents\\mingw64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/SimpleJucePluginTemplate"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/GainTest"
   -
     kind: "find-v1"
     backtrace:
@@ -574,7 +574,7 @@ events:
         - "C:\\Users\\Logan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\Logan\\AppData\\Roaming\\npm"
         - "C:\\Users\\Logan\\Documents\\mingw64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/SimpleJucePluginTemplate"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/GainTest"
   -
     kind: "message-v1"
     backtrace:
@@ -591,7 +591,7 @@ events:
       The output was:
       0
       MSBuild version 17.14.23+b0019275e for .NET Framework
-      Build started 1/1/2026 10:42:10 PM.
+      Build started 1/1/2026 10:55:38 PM.
       
       Project "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\4.2.1\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -620,7 +620,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:00.59
+      Time Elapsed 00:00:00.58
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -746,7 +746,7 @@ events:
         - "C:\\Users\\Logan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\Logan\\AppData\\Roaming\\npm"
         - "C:\\Users\\Logan\\Documents\\mingw64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/SimpleJucePluginTemplate"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/GainTest"
   -
     kind: "find-v1"
     backtrace:
@@ -796,9 +796,9 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/CMake/sbin/"
       - "C:/Program Files/CMake/"
-      - "C:/Program Files (x86)/SimpleJucePluginTemplate/bin/"
-      - "C:/Program Files (x86)/SimpleJucePluginTemplate/sbin/"
-      - "C:/Program Files (x86)/SimpleJucePluginTemplate/"
+      - "C:/Program Files (x86)/GainTest/bin/"
+      - "C:/Program Files (x86)/GainTest/sbin/"
+      - "C:/Program Files (x86)/GainTest/"
     searched_directories:
       - "C:/Windows/System32/rc.com"
       - "C:/Windows/System32/rc.exe"
@@ -878,15 +878,15 @@ events:
       - "C:/Program Files/CMake/rc.com"
       - "C:/Program Files/CMake/rc.exe"
       - "C:/Program Files/CMake/rc"
-      - "C:/Program Files (x86)/SimpleJucePluginTemplate/bin/rc.com"
-      - "C:/Program Files (x86)/SimpleJucePluginTemplate/bin/rc.exe"
-      - "C:/Program Files (x86)/SimpleJucePluginTemplate/bin/rc"
-      - "C:/Program Files (x86)/SimpleJucePluginTemplate/sbin/rc.com"
-      - "C:/Program Files (x86)/SimpleJucePluginTemplate/sbin/rc.exe"
-      - "C:/Program Files (x86)/SimpleJucePluginTemplate/sbin/rc"
-      - "C:/Program Files (x86)/SimpleJucePluginTemplate/rc.com"
-      - "C:/Program Files (x86)/SimpleJucePluginTemplate/rc.exe"
-      - "C:/Program Files (x86)/SimpleJucePluginTemplate/rc"
+      - "C:/Program Files (x86)/GainTest/bin/rc.com"
+      - "C:/Program Files (x86)/GainTest/bin/rc.exe"
+      - "C:/Program Files (x86)/GainTest/bin/rc"
+      - "C:/Program Files (x86)/GainTest/sbin/rc.com"
+      - "C:/Program Files (x86)/GainTest/sbin/rc.exe"
+      - "C:/Program Files (x86)/GainTest/sbin/rc"
+      - "C:/Program Files (x86)/GainTest/rc.com"
+      - "C:/Program Files (x86)/GainTest/rc.exe"
+      - "C:/Program Files (x86)/GainTest/rc"
     found: false
     search_context:
       ENV{PATH}:
@@ -908,12 +908,12 @@ events:
         - "C:\\Users\\Logan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
         - "C:\\Users\\Logan\\AppData\\Roaming\\npm"
         - "C:\\Users\\Logan\\Documents\\mingw64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/SimpleJucePluginTemplate"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/GainTest"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/SimpleJucePluginTemplate"
+        - "C:/Program Files (x86)/GainTest"
   -
     kind: "try_compile-v1"
     backtrace:
@@ -923,8 +923,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-arkwyh"
-      binary: "C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-arkwyh"
+      source: "C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-g1225s"
+      binary: "C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-g1225s"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -933,39 +933,39 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-arkwyh'
+        Change Dir: 'C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-g1225s'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5bb12.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_4cfd1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.14.23+b0019275e for .NET Framework
-        Build started 1/1/2026 10:42:11 PM.
+        Build started 1/1/2026 10:55:39 PM.
         
-        Project "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-arkwyh\\cmTC_5bb12.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-g1225s\\cmTC_4cfd1.vcxproj" on node 1 (default targets).
         PrepareForBuild:
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-arkwyh\\Debug\\".
-          Creating directory "cmTC_5bb12.dir\\Debug\\cmTC_5bb12.tlog\\".
+          Creating directory "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-g1225s\\Debug\\".
+          Creating directory "cmTC_4cfd1.dir\\Debug\\cmTC_4cfd1.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_5bb12.dir\\Debug\\cmTC_5bb12.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_5bb12.dir\\Debug\\cmTC_5bb12.tlog\\unsuccessfulbuild".
+          Creating "cmTC_4cfd1.dir\\Debug\\cmTC_4cfd1.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_4cfd1.dir\\Debug\\cmTC_4cfd1.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_5bb12.dir\\Debug\\\\" /Fd"cmTC_5bb12.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_4cfd1.dir\\Debug\\\\" /Fd"cmTC_4cfd1.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35222 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_5bb12.dir\\Debug\\\\" /Fd"cmTC_5bb12.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_4cfd1.dir\\Debug\\\\" /Fd"cmTC_4cfd1.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-arkwyh\\Debug\\cmTC_5bb12.exe" /INCREMENTAL /ILK:"cmTC_5bb12.dir\\Debug\\cmTC_5bb12.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-arkwyh/Debug/cmTC_5bb12.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-arkwyh/Debug/cmTC_5bb12.lib" /MACHINE:X64  /machine:x64 cmTC_5bb12.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_5bb12.vcxproj -> C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-arkwyh\\Debug\\cmTC_5bb12.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-g1225s\\Debug\\cmTC_4cfd1.exe" /INCREMENTAL /ILK:"cmTC_4cfd1.dir\\Debug\\cmTC_4cfd1.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-g1225s/Debug/cmTC_4cfd1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-g1225s/Debug/cmTC_4cfd1.lib" /MACHINE:X64  /machine:x64 cmTC_4cfd1.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_4cfd1.vcxproj -> C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-g1225s\\Debug\\cmTC_4cfd1.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_5bb12.dir\\Debug\\cmTC_5bb12.tlog\\unsuccessfulbuild".
-          Touching "cmTC_5bb12.dir\\Debug\\cmTC_5bb12.tlog\\cmTC_5bb12.lastbuildstate".
-        Done Building Project "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-arkwyh\\cmTC_5bb12.vcxproj" (default targets).
+          Deleting file "cmTC_4cfd1.dir\\Debug\\cmTC_4cfd1.tlog\\unsuccessfulbuild".
+          Touching "cmTC_4cfd1.dir\\Debug\\cmTC_4cfd1.tlog\\cmTC_4cfd1.lastbuildstate".
+        Done Building Project "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-g1225s\\cmTC_4cfd1.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:00.59
+        Time Elapsed 00:00:00.58
         
       exitCode: 0
   -
@@ -1005,8 +1005,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-9ltzuq"
-      binary: "C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-9ltzuq"
+      source: "C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-mq0wfd"
+      binary: "C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-mq0wfd"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -1016,39 +1016,39 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-9ltzuq'
+        Change Dir: 'C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-mq0wfd'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_940c5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_9f543.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.14.23+b0019275e for .NET Framework
-        Build started 1/1/2026 10:42:12 PM.
+        Build started 1/1/2026 10:55:40 PM.
         
-        Project "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-9ltzuq\\cmTC_940c5.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-mq0wfd\\cmTC_9f543.vcxproj" on node 1 (default targets).
         PrepareForBuild:
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-9ltzuq\\Debug\\".
-          Creating directory "cmTC_940c5.dir\\Debug\\cmTC_940c5.tlog\\".
+          Creating directory "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-mq0wfd\\Debug\\".
+          Creating directory "cmTC_9f543.dir\\Debug\\cmTC_9f543.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_940c5.dir\\Debug\\cmTC_940c5.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_940c5.dir\\Debug\\cmTC_940c5.tlog\\unsuccessfulbuild".
+          Creating "cmTC_9f543.dir\\Debug\\cmTC_9f543.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_9f543.dir\\Debug\\cmTC_9f543.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_940c5.dir\\Debug\\\\" /Fd"cmTC_940c5.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_9f543.dir\\Debug\\\\" /Fd"cmTC_9f543.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35222 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_940c5.dir\\Debug\\\\" /Fd"cmTC_940c5.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_9f543.dir\\Debug\\\\" /Fd"cmTC_9f543.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-9ltzuq\\Debug\\cmTC_940c5.exe" /INCREMENTAL /ILK:"cmTC_940c5.dir\\Debug\\cmTC_940c5.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-9ltzuq/Debug/cmTC_940c5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-9ltzuq/Debug/cmTC_940c5.lib" /MACHINE:X64  /machine:x64 cmTC_940c5.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_940c5.vcxproj -> C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-9ltzuq\\Debug\\cmTC_940c5.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-mq0wfd\\Debug\\cmTC_9f543.exe" /INCREMENTAL /ILK:"cmTC_9f543.dir\\Debug\\cmTC_9f543.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-mq0wfd/Debug/cmTC_9f543.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeScratch/TryCompile-mq0wfd/Debug/cmTC_9f543.lib" /MACHINE:X64  /machine:x64 cmTC_9f543.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_9f543.vcxproj -> C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-mq0wfd\\Debug\\cmTC_9f543.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_940c5.dir\\Debug\\cmTC_940c5.tlog\\unsuccessfulbuild".
-          Touching "cmTC_940c5.dir\\Debug\\cmTC_940c5.tlog\\cmTC_940c5.lastbuildstate".
-        Done Building Project "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-9ltzuq\\cmTC_940c5.vcxproj" (default targets).
+          Deleting file "cmTC_9f543.dir\\Debug\\cmTC_9f543.tlog\\unsuccessfulbuild".
+          Touching "cmTC_9f543.dir\\Debug\\cmTC_9f543.tlog\\cmTC_9f543.lastbuildstate".
+        Done Building Project "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeScratch\\TryCompile-mq0wfd\\cmTC_9f543.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:00.60
+        Time Elapsed 00:00:00.56
         
       exitCode: 0
   -
@@ -1098,37 +1098,37 @@ events:
       stdout: |
         Change Dir: 'C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-build/tools/CMakeFiles/CMakeTmp'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_36bf8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_4d1fc.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.14.23+b0019275e for .NET Framework
-        Build started 1/1/2026 10:42:12 PM.
+        Build started 1/1/2026 10:55:41 PM.
         
-        Project "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeTmp\\cmTC_36bf8.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeTmp\\cmTC_4d1fc.vcxproj" on node 1 (default targets).
         PrepareForBuild:
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
           Creating directory "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeTmp\\Debug\\".
-          Creating directory "cmTC_36bf8.dir\\Debug\\cmTC_36bf8.tlog\\".
+          Creating directory "cmTC_4d1fc.dir\\Debug\\cmTC_4d1fc.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_36bf8.dir\\Debug\\cmTC_36bf8.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_36bf8.dir\\Debug\\cmTC_36bf8.tlog\\unsuccessfulbuild".
+          Creating "cmTC_4d1fc.dir\\Debug\\cmTC_4d1fc.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_4d1fc.dir\\Debug\\cmTC_4d1fc.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_36bf8.dir\\Debug\\\\" /Fd"cmTC_36bf8.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-src\\extras\\Build\\CMake\\juce_runtime_arch_detection.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_4d1fc.dir\\Debug\\\\" /Fd"cmTC_4d1fc.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-src\\extras\\Build\\CMake\\juce_runtime_arch_detection.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35222 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_36bf8.dir\\Debug\\\\" /Fd"cmTC_36bf8.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-src\\extras\\Build\\CMake\\juce_runtime_arch_detection.cpp"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_4d1fc.dir\\Debug\\\\" /Fd"cmTC_4d1fc.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-src\\extras\\Build\\CMake\\juce_runtime_arch_detection.cpp"
           juce_runtime_arch_detection.cpp
-        C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-src\\extras\\Build\\CMake\\juce_runtime_arch_detection.cpp(56,1): error C1189: #error:  JUCE_ARCH x86_64 [C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeTmp\\cmTC_36bf8.vcxproj]
-        Done Building Project "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeTmp\\cmTC_36bf8.vcxproj" (default targets) -- FAILED.
+        C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-src\\extras\\Build\\CMake\\juce_runtime_arch_detection.cpp(56,1): error C1189: #error:  JUCE_ARCH x86_64 [C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeTmp\\cmTC_4d1fc.vcxproj]
+        Done Building Project "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeTmp\\cmTC_4d1fc.vcxproj" (default targets) -- FAILED.
         
         Build FAILED.
         
-        "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeTmp\\cmTC_36bf8.vcxproj" (default target) (1) ->
+        "C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeTmp\\cmTC_4d1fc.vcxproj" (default target) (1) ->
         (ClCompile target) -> 
-          C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-src\\extras\\Build\\CMake\\juce_runtime_arch_detection.cpp(56,1): error C1189: #error:  JUCE_ARCH x86_64 [C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeTmp\\cmTC_36bf8.vcxproj]
+          C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-src\\extras\\Build\\CMake\\juce_runtime_arch_detection.cpp(56,1): error C1189: #error:  JUCE_ARCH x86_64 [C:\\Users\\Logan\\Documents\\Projects\\gaintest\\build\\_deps\\juce-build\\tools\\CMakeFiles\\CMakeTmp\\cmTC_4d1fc.vcxproj]
         
             0 Warning(s)
             1 Error(s)
         
-        Time Elapsed 00:00:00.37
+        Time Elapsed 00:00:00.35
         
       exitCode: 1
 ...
