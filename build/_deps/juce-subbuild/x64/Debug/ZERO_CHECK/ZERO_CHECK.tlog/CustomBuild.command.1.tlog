@@ -1,0 +1,10 @@
+^C:\USERS\LOGAN\DOCUMENTS\PROJECTS\GAINTEST\BUILD\_DEPS\JUCE-SUBBUILD\CMAKEFILES\B6E72DE7826C51BA3069B4B313E74A15\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-subbuild -BC:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Logan/Documents/Projects/gaintest/build/_deps/juce-subbuild/juce-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
